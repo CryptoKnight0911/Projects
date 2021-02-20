@@ -1,4 +1,5 @@
 # lab-ccna
-My First Lab in CCNA: EtherChannel
-Lets see what else I can add in this read me.
-The first thing I used was VIM in GITBASH. Now i'm adding text with VSC. I like VSC code better but using VIM is pretty cool too. Learning has occured.
+Hello, These are most of my Labs from when I was studying for CCNA.
+I created them so I could go back and reference these in the future.
+You will need Cisco Packet Tracer to view the .pkt files. Overtime I've changed some of the way to view them.
+They go in number order and build off of each other. 
