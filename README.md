@@ -1,5 +1,8 @@
 # My Labs
 These are some of my Labs from when I was studying for CCNA.
 I created them so I could go back and reference these in the future.
-You will need Cisco Packet Tracer to view the .pkt files.They go in
-number order and build off of each other.  
+You will need Cisco Packet Tracer to view the .pkt files. There is no
+exact order to view them. (Note) I couldn't get the WLC to work properly 
+in packet tracer, it kept getting stuck at the https:// login screen.
+Couple of other things Dynamic NAT, doesn't work in packet tracer at least
+on the 2911 router. 
