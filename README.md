@@ -9,9 +9,10 @@ My Next lab in Azure. Just started working in Azure this week and I am
 impressed. One simple sentence to explain Azure: Azure takes something really 
 difficult and makes it really easy! Made some changes to lab I was using 
 the 16.04 LTS UBUNTU server but switched to 18.04 and updated it on my labs.
-It wasn't taking a few commands and still need to work out some of the kinks
-with GNS3 server uploading IOS files????
+16.04 wasn't taking a few commands and I still need to work out some of the kinks
+with GNS3 server uploading specific IOS files????
 
-![image](https://user-images.githubusercontent.com/78753943/114335994-dcb4ac00-9b02-11eb-8f3b-86a0eeb99ee1.png)
+![image](https://user-images.githubusercontent.com/78753943/114336219-4df45f00-9b03-11eb-949c-769f17ca6727.png)
+
 
 
