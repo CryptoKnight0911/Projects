@@ -9,5 +9,6 @@ My Next lab in Azure. Just started working in Azure this week and I am
 impressed. One simple sentence to explain Azure: Azure takes something really 
 difficult and makes it really easy!
 
-![image](https://user-images.githubusercontent.com/78753943/112558066-23787700-8d8b-11eb-922b-632371e7c88a.png)
+![image](https://user-images.githubusercontent.com/78753943/114335994-dcb4ac00-9b02-11eb-8f3b-86a0eeb99ee1.png)
+
 
